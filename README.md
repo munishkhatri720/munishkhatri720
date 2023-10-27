@@ -9,7 +9,7 @@ I'm Munish Choudhary and I'm learning Python.
 
 
 
-- Discord - [manish._69](https://discord.com/users/143853929531179008)
+- Discord - [manish._69](https://discord.com/users/1097266765261701281)
 - Instagram - [itz_choudhary_manish](https://instagram.com/itz_choudhary_manish)
 
 
