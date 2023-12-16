@@ -33,11 +33,3 @@ I'm Munish Choudhary and I'm learning Python.
     </a>
 </p>
 <a href="https://github.com/munishkhatri720/github-readme-activity-graph"><img alt="Munish's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=munishkhatri720&theme=react" /></a>
-### Discord!
-<table>
-    <td align="right" style="padding=0;width=50%;">
-  <a href="https://discord.com/users/906191334547816490" target="_blank">
-	<img align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/906191334547816490?bg=0,000000,130F40&showDisplayName=true&hideBadges=true&idleMessage=Probably%20doing%20something%20else...&borderRadius=5px">
-   </a>
-    </td>
-</table>
