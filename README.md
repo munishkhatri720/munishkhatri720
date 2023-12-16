@@ -37,7 +37,7 @@ I'm Munish Choudhary and I'm learning Python.
 <table>
     <td align="right" style="padding=0;width=50%;">
   <a href="https://discord.com/users/906191334547816490" target="_blank">
-	<img align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/972757228463489054?bg=0,000000,130F40&showDisplayName=true&hideBadges=true&idleMessage=Probably%20doing%20something%20else...&borderRadius=5px">
+	<img align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/906191334547816490?bg=0,000000,130F40&showDisplayName=true&hideBadges=true&idleMessage=Probably%20doing%20something%20else...&borderRadius=5px">
    </a>
     </td>
 </table>
