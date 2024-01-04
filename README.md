@@ -22,7 +22,7 @@ I'm Munish Choudhary and I'm learning Python.
 
 [![GitHub](https://github-readme-stats.vercel.app/api?username=munishkhatri720&show_icons=true&theme=synthwave)](https://github.com/munishkhatri720)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munishkhatri720&theme=tokyonight&layout=compact)](https://github.com/munishkhatri720)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munishkhatri720&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/munishkhatri720)
 
 
 </span>
