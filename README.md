@@ -10,7 +10,7 @@ I'm Munish Choudhary and I'm learning Python.
 
 
 - Discord - [संस्कारी मनीष🥀](https://discord.com/users/1097266765261701281)
-- Instagram - [itz_choudhary_manish](https://instagram.com/itz_choudhary_manish)
+- Instagram - [itz_choudhary_manish](https://instagram.com/itz_munish_khatri33)
 
 
 
