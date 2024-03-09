@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munishkhatri720" alt="munishkhatri720" /></a> </p>
 
-- 🔭 I’m currently working on [Hade (Discord Music Bot)](https://github.com/munishkhatri720/Hade-Revanced)
+- 🔭 I’m currently working on [Hade (Discord Music Bot)]([https://github.com/munishkhatri720/Hade-Revanced](https://ptb.discord.com/api/oauth2/authorize?client_id=1021732722479202304&permissions=2247485505&scope=bot%20applications.commands))
 
 - 🌱 I’m currently learning **Javascript**
 
