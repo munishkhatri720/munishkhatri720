@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi there! 👋<br><br>I'm just a normal guy with a big dream: preparing for UPSC 📝. But along the way, I discovered my love for programming 💻.<br><br>### About Me<br>- 🌱 I learned all programming concepts by myself, driven by curiosity and passion.<br>- 🚀 Whether it's writing code or solving problems, I enjoy the journey of learning and building.<br>- ⚙️ I work with various programming languages and love creating things that make life a bit easier.
+## 💫 About Me:
+ Hi there! 👋<br><br>I'm just a normal guy with a big dream: preparing for UPSC 📝. But along the way, I discovered my love for programming 💻.<br><br>### About Me<br>- 🌱 I learned all programming concepts by myself, driven by curiosity and passion.<br>- 🚀 Whether it's writing code or solving problems, I enjoy the journey of learning and building.<br>- ⚙️ I work with various programming languages and love creating things that make life a bit easier.
 
 
 ## 🌐 Socials:
