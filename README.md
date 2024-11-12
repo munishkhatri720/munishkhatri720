@@ -1,5 +1,10 @@
-## 💫 About Me:
- Hi there! 👋<br><br>I'm just a normal guy with a big dream: preparing for UPSC 📝. But along the way, I discovered my love for programming 💻.<br><br>### About Me<br>- 🌱 I learned all programming concepts by myself, driven by curiosity and passion.<br>- 🚀 Whether it's writing code or solving problems, I enjoy the journey of learning and building.<br>- ⚙️ I work with various programming languages and love creating things that make life a bit easier.
+Hi there! 👋
+I'm just a normal guy with a big dream. I discovered my love for programming 💻 and decided to learn everything by myself.
+
+## About Me:
+🌱 I learned programming concepts on my own, driven by curiosity and passion.
+⏳ I only code in my free time. Although I dreamed of pursuing a B.Tech from IIT, it wasn't meant to be, which led me to programming.
+🎯 Currently preparing for SSC government job exams while completing my B.Sc. in Chemistry from a government college.
 
 
 ## 🌐 Socials:
