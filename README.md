@@ -1,12 +1,3 @@
-Hi there! 👋
-I'm just a normal guy with a big dream. I discovered my love for programming 💻 and decided to learn everything by myself.
-
-## About Me:
-- 🌱 I learned programming concepts on my own, driven by curiosity and passion.
-- ⏳ I only code in my free time. Although I dreamed of pursuing a B.Tech from IIT, it wasn't meant to be, which led me to programming.
-- 🎯 Currently preparing for SSC government job exams while completing my B.Sc. in Chemistry from a government college.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AvKxtF7e2H) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itz_munish_khatri33) 
 
